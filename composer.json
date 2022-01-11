@@ -5,7 +5,7 @@
     "require": {
         "php": ">=7.1",
         "laravel/framework": "^5.6||^6.0||^7.0||^8.0",
-        "divineomega/php-geolocation": "^2.0|dev-fix/update-for-laravel-8",
+        "divineomega/php-geolocation": "^2.0|dev-fix/update-laravel-8",
         "divineomega/do-file-cache-psr-6": "^2.0"
     },
     "license": "LGPL-3.0-only",
